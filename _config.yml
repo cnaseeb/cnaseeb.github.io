@@ -1,4 +1,11 @@
-# to help GitHub realize it's a Jekyll site
+#to include a navigation list so these pages appear at the top of your site
+header_pages:
+  - index.md
+  - research.md
+  - speaking.md
+  - mentoring.md
+  
+  # to help GitHub realize it's a Jekyll site
 #theme: jekyll-theme-minimal # for styling (Clean, simple, and great for blogs)
 theme: jekyll-theme-cayman #(Modern, bold headers with a blue/green gradient)
 #theme: jekyll-theme-hacker (Dark mode, monospaced font)
@@ -9,3 +16,6 @@ description: "Building AI since 2003. Code, Systems, and Workflows. Thoughts by 
 #Bridging the gap between AI research and real-world engineering for over 20+ years. Exploring the next era of development workflows.
 #From Neural Networks to LLMs: 20 years of building intelligent systems. Currently obsessed with Bob the AI Software Engineer."
 #"20+ years in AI. No hype, just engineering. Insights on the future of software development."
+
+plugins:
+  - jekyll-seo-tag   # to generate the metadata search engines need.
