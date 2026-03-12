@@ -1,8 +1,24 @@
-# About Me
-I'm a [Your Role] based in [Location]. I specialize in [Your Skill]. 
-When I'm not coding, I'm writing about **Bob the AI Engineer**.
-
-### Connect with Me
-[LinkedIn](https://linkedin.com) | [Google Scholar](https://scholar.google.com...) | [Twitter/X](https://twitter.com) | [GitHub](https://github.com)
 ---
+layout: default
+---
+
+# Dr. Chan Naseeb
+**Building AI since 2003. Code, Systems, and Workflows.**
+Bridging the gap between AI research and real-world engineering for over 20+ years. Exploring the next era of development workflows.
+
+I specialize in the evolution of neural architectures and AI (autonomous) agents. When I’m not architecting systems, I’m documenting the journey of **Bob, the AI Software Engineer**.
+
+[LinkedIn](https://www.linkedin.com/in/channaseeb/) | [Google Scholar](https://scholar.google.com/citations?user=4DuIwSYAAAAJ&hl=en) | [GitHub](https://github.com/cnaseeb)
+
+---
+
 ### Recent Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+      <small>({{ post.date | date: "%B %d, %Y" }})</small>
+    </li>
+  {% endfor %}
+</ul>
+
