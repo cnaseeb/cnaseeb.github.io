@@ -3,3 +3,5 @@
 theme: jekyll-theme-cayman #(Modern, bold headers with a blue/green gradient)
 #theme: jekyll-theme-hacker (Dark mode, monospaced font)
 #theme: jekyll-theme-slate # (Dark, professional look)
+
+description: "Your tagline here" #to fill out more of the empty space on the homepage
