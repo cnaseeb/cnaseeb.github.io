@@ -4,4 +4,8 @@ theme: jekyll-theme-cayman #(Modern, bold headers with a blue/green gradient)
 #theme: jekyll-theme-hacker (Dark mode, monospaced font)
 #theme: jekyll-theme-slate # (Dark, professional look)
 
-description: "Your tagline here" #to fill out more of the empty space on the homepage
+title: [Dr. Chan Naseeb]
+description: "Building AI since 2003. Code, Systems, and Workflows. Thoughts by Dr. Chan Naseeb." #to fill out more of the empty space on the homepage
+#Bridging the gap between AI research and real-world engineering for over 20+ years. Exploring the next era of development workflows.
+#From Neural Networks to LLMs: 20 years of building intelligent systems. Currently obsessed with Bob the AI Software Engineer."
+#"20+ years in AI. No hype, just engineering. Insights on the future of software development."
