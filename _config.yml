@@ -1,5 +1,5 @@
-#to include a navigation list so these pages appear at the top of your site
-header_pages:
+
+header_pages: #to include a navigation list so these pages appear at the top of your site
   - index.md
   - research.md
   - speaking.md
