@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Meet Bob The AI Software Engineer Revolutionizing Development Workflows"
+---
+
 # Meet Bob: The AI Software Engineer Revolutionizing Development Workflows
 
 ## Introduction: The Developer's Dilemma
