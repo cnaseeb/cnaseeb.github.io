@@ -8,11 +8,18 @@ Bridging the gap between AI research and real-world engineering for over 20+ yea
 
 I specialize in the evolution of neural architectures and AI (autonomous) agents. When I’m not architecting systems, I’m documenting the journey of **Bob, the AI Software Engineer**.
 
-[LinkedIn](https://www.linkedin.com/in/channaseeb/) | [Google Scholar](https://scholar.google.com/citations?user=4DuIwSYAAAAJ&hl=en) | [GitHub](https://github.com/cnaseeb)
+---
+### [Research](/research) | [Speaking](/speaking) | [Mentoring](/mentoring)
+---
+
+---
+**Connect:**   
+
+[LinkedIn](https://www.linkedin.com/in/channaseeb/) | [Google Scholar](https://scholar.google.com/citations?user=4DuIwSYAAAAJ&hl=en) | [GitHub](https://github.com/cnaseeb) | [YouTube](https://www.youtube.com/@channaseeb6070) 
 
 ---
 
-### Recent Posts
+### Recent Posts (Insights)
 <ul>
   {% for post in site.posts %}
     <li>
