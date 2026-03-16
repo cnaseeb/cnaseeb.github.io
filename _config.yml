@@ -8,6 +8,8 @@ header_pages: #to include a navigation list so these pages appear at the top of 
   # to help GitHub realize it's a Jekyll site
 #theme: jekyll-theme-minimal # for styling (Clean, simple, and great for blogs)
 theme: jekyll-theme-cayman #(Modern, bold headers with a blue/green gradient)
+plugins:
+  - jekyll-seo-tag   # to generate the metadata search engines need.
 #theme: jekyll-theme-hacker (Dark mode, monospaced font)
 #theme: jekyll-theme-slate # (Dark, professional look)
 
@@ -17,5 +19,3 @@ description: "Building AI since 2003. Code, Systems, and Workflows. Thoughts by 
 #From Neural Networks to LLMs: 20 years of building intelligent systems. Currently obsessed with Bob the AI Software Engineer."
 #"20+ years in AI. No hype, just engineering. Insights on the future of software development."
 
-plugins:
-  - jekyll-seo-tag   # to generate the metadata search engines need.
