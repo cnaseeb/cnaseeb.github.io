@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bob's Tool Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure"
+title: "Bob's Technical Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure"
 ---
 
 
