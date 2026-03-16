@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Bob's Tool Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure"
 ---
 
