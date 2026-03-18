@@ -1,7 +1,7 @@
 # Multi-Agent Orchestration in watsonx Orchestrate
 ## Complete Architecture, Design Patterns, and Implementation Guide
 
-**Author:** Technical Thought Leadership Series  
+**Author:** Dr. Chan Naseeb   
 **Date:** March 2026  
 **Version:** 1.0  
 **Target Audience:** Enterprise Architects, AI Engineers, Solution Designers

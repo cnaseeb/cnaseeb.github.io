@@ -1,12 +1,6 @@
----
-layout: post
-title: "Bob's Technical Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure"
----
-
-
 # Meet Bob: Technical Architecture and Implementation Deep Dive
 
-*A comprehensive technical exploration of Bob's autonomous software engineering capabilities*
+## A comprehensive technical exploration of Bob's autonomous software engineering capabilities
 
 ---
 
