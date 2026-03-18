@@ -1,11 +1,8 @@
----
-layout: post
-title: "Meet Bob The AI Software Engineer Revolutionizing Development Workflows"
----
-
 # Meet Bob: The AI Software Engineer Revolutionizing Development Workflows
 
 ## Introduction: The Developer's Dilemma
+
+---
 
 It's 3 PM on a Friday. Your product manager just dropped a "quick request" in Slack: "Can we add a new REST API endpoint for user validation by Monday?" You know what this means—hours of boilerplate code, configuration files, error handling, testing, and documentation. Your weekend plans just evaporated.
 

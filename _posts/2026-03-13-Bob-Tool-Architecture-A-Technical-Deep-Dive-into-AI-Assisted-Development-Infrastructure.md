@@ -1,13 +1,6 @@
-<!-- ---
-layout: post
-title: "Bob's Tool Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure"
----
- -->
-
-
 # Bob's Tool Architecture: A Technical Deep Dive into AI-Assisted Development Infrastructure
 
-## Advanced patterns, internals, and extending Bob's capabilities*
+## Advanced patterns, internals, and extending Bob's capabilities
 
 ---
 
