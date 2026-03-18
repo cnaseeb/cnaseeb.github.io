@@ -6,6 +6,8 @@
 **Version:** 1.0  
 **Target Audience:** Enterprise Architects, AI Engineers, Solution Designers
 
+📦 **[View Complete Code on GitHub](https://github.com/cnaseeb/Bob-ai-engineering-series/tree/main/blog-04-multi-agent-orchestration-wxo)**
+
 ---
 
 ## Table of Contents
@@ -34,6 +36,13 @@ Multi-agent orchestration in watsonx Orchestrate enables complex enterprise work
 - **Resilience:** Fault isolation and graceful degradation
 - **Maintainability:** Modular architecture with clear boundaries
 - **Flexibility:** Easy to add, remove, or modify agents
+
+
+### Added "Resources":
+📦 [Complete Code Examples](https://github.com/cnaseeb/Bob-ai-engineering-series/tree/main/blog-04-multi-agent-orchestration-wxo)
+<!-- 📖 Blog Series -->
+<!-- 🎥 Video Tutorials -->
+
 
 **Performance Metrics:**
 - 60-80% reduction in task completion time
@@ -446,6 +455,13 @@ class ConditionalOrchestrator:
 - Alert on anomalies
 
 ---
+## Resources (Code Repo etc.)
+Comprehensive section with:
+- [Direct GitHub link](https://github.com/cnaseeb/Bob-ai-engineering-series/tree/main/blog-04-multi-agent-orchestration-wxo)
+<!-- - Repository structure diagram -->
+<!-- - Quick start instructions -->
+<!-- - - Related resources (blog, video, discussions, issues) -->
+
 
 ## Conclusion
 
